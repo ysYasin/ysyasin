@@ -21,7 +21,7 @@ MongoDB, ExpressJS, Node.js (MERN stack): Currently, I'm exploring the MERN stac
 My coding journey is driven by a commitment to best practices, code optimization, and staying current with the latest industry trends. I enjoy collaborating with design and back-end teams to create cohesive and delightful user experiences.
 
 🚀 **What's Next:**
-I'm constantly expanding my skill set and exploring new front-end technologies. Whether it's diving deeper into emerging frameworks or refining my animation skills, I'm always excited to take on new challenges that push the boundaries of web development.
+I'm always on the lookout for new challenges that push the boundaries of web development. Whether I'm diving deeper into emerging frameworks like React JS or refining my animation skills with GSAP, I'm constantly expanding my skill set. Now, I'm venturing into the MERN stack, exploring MongoDB, Express.js, and Node.js to strengthen my full-stack capabilities. The journey never stops, and I'm excited to see where the intersection of creativity and technology takes me next. 🌐✨
 
 📫 **Let's Connect:**
 I'm open to collaboration and always interested in connecting with fellow developers, designers, and tech enthusiasts. Feel free to reach out to me via email or on my social media profiles linked below. Let's create something amazing together!
@@ -31,7 +31,7 @@ Thanks for stopping by and exploring my work. Looking forward to crossing paths 
 Skills:  /JS /Bootstrap/Tailwind/ HTML / CSS
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning react.js 
+- 🌱 I’m currently learning Node js, express js and Mongodb 
 - 💬 Ask me about frontend-web development 
 - 📫 How to reach me: linked-in 
 - ⚡ Fun fact: I love to write stories and poem 
