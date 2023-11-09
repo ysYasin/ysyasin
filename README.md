@@ -3,16 +3,19 @@
 #This is Yasin Arafat
 ### I am front-end Web Dwvwloper
 
-👋 Front-End Web Developer | HTML | CSS | JavaScript | GSAP | Bootstrap | Tailwind 👨‍💻
+👋 Front-End Web Developer | HTML | CSS | JavaScript | GSAP | Bootstrap | Tailwind | React js  👨‍💻
 
 Hey there! Welcome to my GitHub profile. I'm Yasin Arafat, a passionate front-end web developer with a flair for crafting engaging and visually appealing user experiences. With a strong foundation in HTML, CSS, and JavaScript, I bring digital ideas to life by seamlessly blending creativity and technology.
 
-🌐 **Skills:**
-- **HTML & CSS:** I specialize in creating clean, semantic HTML structures and styling them with CSS for elegant and responsive designs that work across various devices and screen sizes.
-- **JavaScript:** From interactive features to dynamic content, I leverage JavaScript to enhance user interactions and create seamless, smooth experiences.
-- **GSAP (GreenSock Animation Platform):** Animations can truly bring a website to life, and I'm adept at using GSAP to craft captivating animations and transitions that captivate users and add that extra layer of engagement.
-- **Bootstrap:** When rapid development and consistent design are key, I turn to Bootstrap to efficiently build responsive and visually coherent web applications.
-- **Tailwind CSS:** I'm also skilled in utilizing Tailwind CSS to create utility-first, highly customizable styles that streamline development while maintaining aesthetic excellence.
+🚀 Skills:
+
+HTML & CSS: I specialize in creating clean, semantic HTML structures and styling them with CSS for elegant and responsive designs that work across various devices and screen sizes.
+JavaScript: From interactive features to dynamic content, I leverage JavaScript to enhance user interactions and create seamless, smooth experiences.
+GSAP (GreenSock Animation Platform): Animations can truly bring a website to life, and I'm adept at using GSAP to craft captivating animations and transitions that captivate users and add that extra layer of engagement.
+Bootstrap: When rapid development and consistent design are key, I turn to Bootstrap to efficiently build responsive and visually coherent web applications.
+Tailwind CSS: I'm also skilled in utilizing Tailwind CSS to create utility-first, highly customizable styles that streamline development while maintaining aesthetic excellence.
+React JS: I'm diving into the world of React JS, building dynamic and efficient user interfaces. It's all about those reusable components and virtual DOM magic!
+MongoDB, ExpressJS, Node.js (MERN stack): Currently, I'm exploring the MERN stack, learning to seamlessly integrate MongoDB for database management, Express.js for building robust APIs, and Node.js for server-side JavaScript. It's a journey into full-stack development, and I'm excited about the possibilities it opens up. 🌐
 
 💼 **Professional Approach:**
 My coding journey is driven by a commitment to best practices, code optimization, and staying current with the latest industry trends. I enjoy collaborating with design and back-end teams to create cohesive and delightful user experiences.
